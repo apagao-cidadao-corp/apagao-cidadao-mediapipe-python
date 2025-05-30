@@ -1,0 +1,1 @@
+# apagao-cidadao-mediapipe-python
