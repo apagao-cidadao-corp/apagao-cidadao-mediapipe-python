@@ -29,7 +29,7 @@ Criar um sistema que:
 |-------------------|------------------------------------|
 | ✋ 5 dedos         | 🚨 Toca som de **Ajuda URGENTE**    |
 | 🤟 3 dedos         | 🩺 Toca som de **Ajuda MÉDICA**     |
-| ✌️ 1 dedos         | 💡 Ativa **lanterna de emergência** |
+| ☝️ 1 dedos         | 💡 Ativa **lanterna de emergência** |
 | ✊ 0 dedos         | 🔕 Cancela todos os alertas         |
 
 ---
