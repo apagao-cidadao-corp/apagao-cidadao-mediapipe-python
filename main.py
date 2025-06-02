@@ -36,7 +36,7 @@ def show_flashlight():
         cv2.imshow("Lanterna de Emergência", white_screen)
         if cv2.waitKey(1) & 0xFF == ord('q'):
             break
-    cv2.destroyWindow("Lanterna de Emergencia")
+    cv2.destroyWindow("Lanterna de Emergência")
 
 # Função para contar dedos
 def count_fingers(hand_landmarks, hand_label):
