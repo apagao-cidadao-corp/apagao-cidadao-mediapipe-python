@@ -23,6 +23,10 @@ Criar um sistema que:
 
 ---
 
+## 📽️ Link do video explicativo + funcionamento
+[Assista ao vídeo de demonstração](https://www.youtube.com/watch?v=zlEUuwRrX14)
+
+
 ## 🧠 Como funciona
 
 | Gesto Reconhecido | Ação Realizada                     |
